@@ -4,3 +4,10 @@
     font-size: 24px;
     color: black;
 }
+
+img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
