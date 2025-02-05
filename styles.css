@@ -36,11 +36,14 @@ img {
     margin: 10px auto;
 }
 
+.link-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 .link {
     background-color: bisque;
-    display: block;
-    width: 100%;
-    margin: 0 auto;
     padding: 20px;
     font-size: 24px;
     text-align: center;
